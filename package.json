@@ -1,0 +1,19 @@
+{
+  "name": "ecc",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Rakshith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.1"
+  }
+}

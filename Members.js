@@ -1,0 +1,40 @@
+const member = [
+    {
+        "id":1,
+        "name":"Rakshith",
+        "age":18,
+        "combination":"BCA"
+    },
+    {
+        "id":2,
+       "name":"Arjun",
+       "age":18,
+       "combination":"BCA"
+   },
+   {
+       "id":3,
+       "name":"Shella",
+       "age":18,
+       "combination":"BCA"
+   },
+   {
+       "id":4,
+       "name":"Shashi",
+       "age":18,
+       "combination":"BCA"
+   },
+   {
+       "id":5,
+       "name":"Suman",
+       "age":18,
+       "combination":"BCA"
+   },
+   {
+       "id":6,
+       "name":"Hima",
+       "age":18,
+       "combination":"BCA"
+   }
+]
+
+module.exports = member; 
